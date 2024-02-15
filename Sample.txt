@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 i do not understand
+=======
+i do not understand
+>>>>>>> b12624b2ae36821539ac2f4de43377bc595752a7
